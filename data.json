@@ -1,0 +1,193 @@
+{
+  "heroContent": [
+    {
+      "tag": "Welcome to Financial Advisory",
+      "title": "Your Financial Status Is Our Goal",
+      "description": "Expert guidance on insurance policies and mutual funds tailored to your needs. Secure your financial future with trusted advice.",
+      "mainImage": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Cdefs%3E%3ClinearGradient id='g1' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%23667eea;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%23764ba2;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='500' height='500' rx='40' fill='url(%23g1)' /%3E%3Ccircle cx='250' cy='200' r='80' fill='white' opacity='0.15' /%3E%3Ctext x='50%25' y='50%25' fill='white' font-size='35' text-anchor='middle' font-family='sans-serif' font-weight='bold'%3EFinancial Goals%3C/text%3E%3Cpath d='M150 400 L250 320 L350 380' stroke='white' stroke-width='8' fill='none' opacity='0.4' /%3E%3C/svg%3E"
+    },
+    {
+      "tag": "Plan for Tomorrow",
+      "title": "Secure Your Family's Future",
+      "description": "Comprehensive life and health insurance plans designed for maximum protection from top-tier national providers.",
+      "mainImage": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Cdefs%3E%3ClinearGradient id='g2' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%234caf50;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%232e7d32;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='500' height='500' rx='40' fill='url(%23g2)' /%3E%3Cpath d='M250 120 L380 180 V320 Q250 420 120 320 V180 Z' fill='white' opacity='0.2' /%3E%3Ctext x='50%25' y='50%25' fill='white' font-size='35' text-anchor='middle' font-family='sans-serif' font-weight='bold'%3EFamily Security%3C/text%3E%3Ctext x='250' y='380' text-anchor='middle' font-size='60'%3E🛡️%3C/text%3E%3C/svg%3E"
+    },
+    {
+      "tag": "Wealth Creation Strategies",
+      "title": "Invest with High Growth Focus",
+      "description": "Explore diversified mutual funds aligned carefully with your custom financial milestones and risk profile.",
+      "mainImage": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 500 500'%3E%3Cdefs%3E%3ClinearGradient id='g3' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' style='stop-color:%230284c7;stop-opacity:1' /%3E%3Cstop offset='100%25' style='stop-color:%230369a1;stop-opacity:1' /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='500' height='500' rx='40' fill='url(%23g3)' /%3E%3Cpath d='M100 400 L200 300 L300 350 L400 200' stroke='white' stroke-width='10' fill='none' opacity='0.3' /%3E%3Ctext x='50%25' y='50%25' fill='white' font-size='35' text-anchor='middle' font-family='sans-serif' font-weight='bold'%3EWealth Growth%3C/text%3E%3Ctext x='400' y='180' text-anchor='middle' font-size='50'%3E📈%3C/text%3E%3C/svg%3E"
+    }
+  ],
+  "userStats": [
+    {
+      "category": "Health",
+      "count": "12,450",
+      "label": "Active Health Policies",
+      "icon": "🏥"
+    },
+    {
+      "category": "Life",
+      "count": "8,920",
+      "label": "Active Life Covers",
+      "icon": "🛡️"
+    },
+    {
+      "category": "MF",
+      "count": "15,680",
+      "label": "Active MF Investors",
+      "icon": "📈"
+    }
+  ],
+  "providers": [
+    {
+      "name": "HDFC Life",
+      "insurances": [
+        {
+          "name": "Click 2 Protect Plus",
+          "type": "Life",
+          "price": 450,
+          "description": "Comprehensive life insurance with flexible investment components."
+        },
+        {
+          "name": "Health Shield",
+          "type": "Health",
+          "price": 350,
+          "description": "Complete health coverage including premium critical illness benefits."
+        }
+      ],
+      "mutualFunds": [
+        {
+          "name": "HDFC Equity Fund",
+          "type": "Equity",
+          "price": 1200,
+          "description": "High growth potential diversified equity fund."
+        },
+        {
+          "name": "HDFC Debt Fund",
+          "type": "Debt",
+          "price": 950,
+          "description": "Low risk, stable-yield fixed income fund."
+        }
+      ]
+    },
+    {
+      "name": "LIC India",
+      "insurances": [
+        {
+          "name": "Jeevan Bima",
+          "type": "Life",
+          "price": 380,
+          "description": "Traditional life insurance plans featuring strong guaranteed returns."
+        },
+        {
+          "name": "Arogya Plus",
+          "type": "Health",
+          "price": 320,
+          "description": "Mediclaim policy with complete cashless hospitalization network."
+        }
+      ],
+      "mutualFunds": [
+        {
+          "name": "LIC MF Growth",
+          "type": "Equity",
+          "price": 1100,
+          "description": "Aggressive, high-growth active equity mutual fund."
+        },
+        {
+          "name": "LIC Income Fund",
+          "type": "Debt",
+          "price": 880,
+          "description": "Consistent income-focused low-risk portfolio."
+        }
+      ]
+    },
+    {
+      "name": "ICICI Prudential",
+      "insurances": [
+        {
+          "name": "iProtect Smart",
+          "type": "Life",
+          "price": 420,
+          "description": "Digital-first customizable premium term plan."
+        },
+        {
+          "name": "Health Advantage",
+          "type": "Health",
+          "price": 380,
+          "description": "Premium clinical care and health insurance."
+        }
+      ],
+      "mutualFunds": [
+        {
+          "name": "ICICI Growth Plus",
+          "type": "Equity",
+          "price": 1050,
+          "description": "Diversified blue-chip growth equity portfolio."
+        },
+        {
+          "name": "ICICI Bond Fund",
+          "type": "Debt",
+          "price": 900,
+          "description": "Ultra-safe government bond investment option."
+        }
+      ]
+    },
+    {
+      "name": "SBI Life",
+      "insurances": [
+        {
+          "name": "SmartLife",
+          "type": "Life",
+          "price": 400,
+          "description": "Flexible term assurance with significant maturation benefits."
+        },
+        {
+          "name": "HealthCare Plus",
+          "type": "Health",
+          "price": 340,
+          "description": "Enhanced health insurance coverage including wellness programs."
+        }
+      ],
+      "mutualFunds": [
+        {
+          "name": "SBI Equity Fund",
+          "type": "Equity",
+          "price": 980,
+          "description": "Well-balanced sector-focused equity portfolio."
+        },
+        {
+          "name": "SBI Bond Fund",
+          "type": "Debt",
+          "price": 820,
+          "description": "Fixed corporate debt profile with stable yield structures."
+        }
+      ]
+    }
+  ],
+  "aboutUs": {
+    "title": "Expert Financial Guidance",
+    "description": "Providing personalized financial roadmaps to help individuals and families achieve long-term security and wealth growth.",
+    "mission": "To simplify financial planning through transparency and expert analysis.",
+    "advisor": {
+      "name": "Sarah Jenkins",
+      "role": "Senior Financial Strategist",
+      "qualifications": "Certified Financial Planner (CFP), MBA in Finance, IRDAI Licensed.",
+      "certifications": [
+        "IRDAI Composite Broker License",
+        "AMFI Mutual Fund Certification (Series V-A)",
+        "NISM Investment Adviser (Level 1 & 2)",
+        "NSE Academy Certification in Financial Markets"
+      ],
+      "experience": "15+ Years in Industry",
+      "partnerExperience": "Extensive 10-year track record collaborating with leading Insurance firms and Mutual Fund houses to provide premium product access.",
+      "portfolio": "Managing a diverse portfolio of 500+ HNI clients with over ₹250Cr in assets under advisory.",
+      "image": ""
+    },
+    "stats": [
+      { "label": "Happy Clients", "value": "10k+" },
+      { "label": "Success Rate", "value": "99%" },
+      { "label": "Years Active", "value": "15+" }
+    ]
+  }
+}
